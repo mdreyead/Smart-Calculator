@@ -1,0 +1,10 @@
+{
+  "name": "Smart Calculator Pro",
+  "short_name": "Smart Calc",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#10172a",
+  "description": "Offline-ready calculator with big integer support.",
+  "icons": []
+}
